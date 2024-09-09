@@ -1,0 +1,9 @@
+    <resources>
+    <string name="app_name">Find Your Beer</string>
+        <string-array name="proyectos">
+            <item>Infraestructura</item>
+            <item>Recreacion</item>
+            <item>Educacion</item>
+            <item>Salud</item>
+        </string-array>
+</resources>
